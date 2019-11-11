@@ -1,2 +1,5 @@
-# label-studio-addon-dicom
+# Label Studio DICOM
+
 DICOM format annotation and labeling support for Label Studio
+
+TBA
